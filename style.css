@@ -1,0 +1,14 @@
+.parágrafo{
+    padding: 25px;
+    margin-bottom: 40px;
+    border: 2px solid ;
+}
+.padrão{
+    background-color:#F5F5F5;
+}
+.destaque{
+    background-color:#F0CCE2;
+}
+.final{
+    background-color: aquamarine;
+}
